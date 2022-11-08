@@ -1,0 +1,31 @@
+.bg-green{
+    background-color: rgb(224, 253, 226);
+    
+}
+
+.bg-greenop{
+    background-color: #dedede;
+    
+}
+
+.tx-green{
+    color: #8BB631;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+
+.carro{
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.somos{
+    font-size: 16pt;
+}
+
+.inp{
+    font-size: 18pt;
+}
